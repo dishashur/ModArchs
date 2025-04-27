@@ -4,6 +4,7 @@ DIRECTIONS for MODIFIED TRANSFORMER ARCHITECTURE <!--~ Disha Shur-->
 The following commands were used to train the models and generate th output plots shown in the plots section.
 
 sbatch scholar.sh python -u small_lm8heads.py
+<br>
 sbatch scholar.sh python -u small_lm.py
 
 For every experiment with modified architecture, there is a comparision with the original architecture. The modified architectures we tried are as follows:
