@@ -1,0 +1,134 @@
+Current conda environment:
+# conda environments:
+#
+base                     /apps/cent7/anaconda/2024.02
+CS587                 *  /home/dshur/.conda/envs/cent7/2024.02-py311/CS587
+
+
+now reading
+train_data.device cpu
+Original Model: 5.492832 M parameters
+MLP Attention Model: 14.35632 M parameters
+startin iters
+Original model: step 0: train loss 4.6833, val loss 4.6851
+MLP Attention model: step 0: train loss 4.5644, val loss 4.5644
+Original model: step 50: train loss 2.5587, val loss 2.5442
+MLP Attention model: step 50: train loss 3.1484, val loss 3.1320
+Original model: step 100: train loss 2.4749, val loss 2.4673
+MLP Attention model: step 100: train loss 3.1431, val loss 3.1320
+Original model: step 150: train loss 2.4457, val loss 2.4378
+MLP Attention model: step 150: train loss 3.1435, val loss 3.1334
+Original model: step 200: train loss 2.4045, val loss 2.3910
+MLP Attention model: step 200: train loss 3.1466, val loss 3.1331
+Original model: step 250: train loss 2.3481, val loss 2.3289
+MLP Attention model: step 250: train loss 3.1458, val loss 3.1334
+Original model: step 300: train loss 2.2530, val loss 2.2301
+MLP Attention model: step 300: train loss 3.1433, val loss 3.1340
+Original model: step 350: train loss 2.0619, val loss 2.0284
+MLP Attention model: step 350: train loss 3.1443, val loss 3.1331
+Original model: step 400: train loss 1.9184, val loss 1.8893
+MLP Attention model: step 400: train loss 3.1420, val loss 3.1319
+Original model: step 450: train loss 1.8172, val loss 1.7953
+MLP Attention model: step 450: train loss 3.1418, val loss 3.1311
+Original model: step 500: train loss 1.7299, val loss 1.7150
+MLP Attention model: step 500: train loss 3.1382, val loss 3.1307
+Original model: step 550: train loss 1.6549, val loss 1.6462
+MLP Attention model: step 550: train loss 3.1432, val loss 3.1315
+Original model: step 600: train loss 1.5883, val loss 1.5920
+MLP Attention model: step 600: train loss 3.1437, val loss 3.1333
+Original model: step 650: train loss 1.5354, val loss 1.5457
+MLP Attention model: step 650: train loss 3.1445, val loss 3.1337
+Original model: step 700: train loss 1.4864, val loss 1.5065
+MLP Attention model: step 700: train loss 3.1424, val loss 3.1327
+Original model: step 750: train loss 1.4549, val loss 1.4848
+MLP Attention model: step 750: train loss 3.1439, val loss 3.1316
+Original model: step 800: train loss 1.4186, val loss 1.4553
+MLP Attention model: step 800: train loss 3.1435, val loss 3.1304
+Original model: step 850: train loss 1.3897, val loss 1.4359
+MLP Attention model: step 850: train loss 3.1425, val loss 3.1319
+Original model: step 900: train loss 1.3654, val loss 1.4150
+MLP Attention model: step 900: train loss 3.1412, val loss 3.1306
+Original model: step 950: train loss 1.3349, val loss 1.3976
+MLP Attention model: step 950: train loss 3.1442, val loss 3.1345
+Original model: step 1000: train loss 1.3190, val loss 1.3898
+MLP Attention model: step 1000: train loss 3.1466, val loss 3.1339
+Original model: step 1050: train loss 1.2905, val loss 1.3691
+MLP Attention model: step 1050: train loss 3.1438, val loss 3.1332
+Original model: step 1100: train loss 1.2771, val loss 1.3616
+MLP Attention model: step 1100: train loss 3.1436, val loss 3.1328
+Original model: step 1150: train loss 1.2567, val loss 1.3514
+MLP Attention model: step 1150: train loss 3.1429, val loss 3.1299
+Original model: step 1200: train loss 1.2378, val loss 1.3392
+MLP Attention model: step 1200: train loss 3.1393, val loss 3.1313
+Original model: step 1250: train loss 1.2232, val loss 1.3248
+MLP Attention model: step 1250: train loss 3.1437, val loss 3.1300
+Original model: step 1300: train loss 1.2185, val loss 1.3313
+MLP Attention model: step 1300: train loss 3.1405, val loss 3.1300
+Original model: step 1350: train loss 1.2023, val loss 1.3222
+MLP Attention model: step 1350: train loss 3.1425, val loss 3.1324
+Original model: step 1400: train loss 1.1814, val loss 1.3111
+MLP Attention model: step 1400: train loss 3.1422, val loss 3.1339
+Original model: step 1450: train loss 1.1693, val loss 1.3038
+MLP Attention model: step 1450: train loss 3.1419, val loss 3.1301
+Original model: step 1500: train loss 1.1595, val loss 1.3058
+MLP Attention model: step 1500: train loss 3.1431, val loss 3.1324
+Original model: step 1550: train loss 1.1461, val loss 1.2979
+MLP Attention model: step 1550: train loss 3.1406, val loss 3.1294
+Original model: step 1600: train loss 1.1363, val loss 1.2915
+MLP Attention model: step 1600: train loss 3.1453, val loss 3.1316
+Original model: step 1650: train loss 1.1259, val loss 1.2907
+MLP Attention model: step 1650: train loss 3.1431, val loss 3.1340
+Original model: step 1700: train loss 1.1178, val loss 1.2855
+MLP Attention model: step 1700: train loss 3.1400, val loss 3.1334
+Original model: step 1750: train loss 1.1081, val loss 1.2801
+MLP Attention model: step 1750: train loss 3.1431, val loss 3.1300
+Original model: step 1800: train loss 1.0971, val loss 1.2848
+MLP Attention model: step 1800: train loss 3.1381, val loss 3.1297
+Original model: step 1850: train loss 1.0846, val loss 1.2778
+MLP Attention model: step 1850: train loss 3.1421, val loss 3.1292
+Original model: step 1900: train loss 1.0767, val loss 1.2790
+MLP Attention model: step 1900: train loss 3.1390, val loss 3.1315
+Original model: step 1950: train loss 1.0647, val loss 1.2665
+MLP Attention model: step 1950: train loss 3.1443, val loss 3.1293
+Original model: step 2000: train loss 1.0575, val loss 1.2688
+MLP Attention model: step 2000: train loss 3.1453, val loss 3.1324
+Original model: step 2050: train loss 1.0427, val loss 1.2685
+MLP Attention model: step 2050: train loss 3.1420, val loss 3.1324
+Original model: step 2100: train loss 1.0400, val loss 1.2689
+MLP Attention model: step 2100: train loss 3.1420, val loss 3.1290
+Original model: step 2150: train loss 1.0300, val loss 1.2668
+MLP Attention model: step 2150: train loss 3.1437, val loss 3.1334
+Original model: step 2200: train loss 1.0205, val loss 1.2640
+MLP Attention model: step 2200: train loss 3.1416, val loss 3.1284
+Original model: step 2250: train loss 1.0132, val loss 1.2602
+MLP Attention model: step 2250: train loss 3.1383, val loss 3.1291
+Original model: step 2300: train loss 1.0007, val loss 1.2550
+MLP Attention model: step 2300: train loss 3.1401, val loss 3.1302
+Original model: step 2350: train loss 0.9939, val loss 1.2601
+MLP Attention model: step 2350: train loss 3.1430, val loss 3.1311
+Original model: step 2400: train loss 0.9893, val loss 1.2611
+MLP Attention model: step 2400: train loss 3.1421, val loss 3.1311
+Original model: step 2450: train loss 0.9840, val loss 1.2583
+MLP Attention model: step 2450: train loss 3.1406, val loss 3.1320
+Original model: step 2500: train loss 0.9735, val loss 1.2577
+MLP Attention model: step 2500: train loss 3.1375, val loss 3.1275
+Original model: step 2550: train loss 0.9689, val loss 1.2657
+MLP Attention model: step 2550: train loss 3.1407, val loss 3.1293
+Original model: step 2600: train loss 0.9614, val loss 1.2708
+MLP Attention model: step 2600: train loss 3.1400, val loss 3.1290
+Original model: step 2650: train loss 0.9505, val loss 1.2593
+MLP Attention model: step 2650: train loss 3.1423, val loss 3.1306
+Original model: step 2700: train loss 0.9423, val loss 1.2592
+MLP Attention model: step 2700: train loss 3.1403, val loss 3.1305
+Original model: step 2750: train loss 0.9370, val loss 1.2631
+MLP Attention model: step 2750: train loss 3.1388, val loss 3.1284
+Original model: step 2800: train loss 0.9314, val loss 1.2675
+MLP Attention model: step 2800: train loss 3.1418, val loss 3.1313
+Original model: step 2850: train loss 0.9223, val loss 1.2612
+MLP Attention model: step 2850: train loss 3.1403, val loss 3.1287
+Original model: step 2900: train loss 0.9188, val loss 1.2658
+MLP Attention model: step 2900: train loss 3.1457, val loss 3.1297
+Original model: step 2950: train loss 0.9095, val loss 1.2650
+MLP Attention model: step 2950: train loss 3.1453, val loss 3.1325
+Original model: step 2999: train loss 0.9027, val loss 1.2660
+MLP Attention model: step 2999: train loss 3.1429, val loss 3.1281

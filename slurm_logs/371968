@@ -1,0 +1,2319 @@
+Current conda environment:
+# conda environments:
+#
+base                     /apps/cent7/anaconda/2024.02
+CS587                 *  /home/dshur/.conda/envs/cent7/2024.02-py311/CS587
+
+
+Dataset split: 134526 training samples, 14948 validationing samples
+begin training
+Current/Maximum GPU memory used: 2.35/6.59 GB
+Epoch [1/4], Step [0/4203], Loss: 11.6394
+Validation Loss: 11.6394
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [1/4203], Loss: 11.4729
+Validation Loss: 11.4729
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [2/4203], Loss: 11.2949
+Validation Loss: 11.2949
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [3/4203], Loss: 11.0979
+Validation Loss: 11.0979
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [4/4203], Loss: 10.8919
+Validation Loss: 10.8919
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [5/4203], Loss: 10.7002
+Validation Loss: 10.7002
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [6/4203], Loss: 10.4526
+Validation Loss: 10.4526
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [7/4203], Loss: 10.2768
+Validation Loss: 10.2768
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [8/4203], Loss: 10.0596
+Validation Loss: 10.0596
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [9/4203], Loss: 9.8824
+Validation Loss: 9.8824
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [10/4203], Loss: 9.6876
+Validation Loss: 9.6876
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [11/4203], Loss: 9.4624
+Validation Loss: 9.4624
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [12/4203], Loss: 9.2950
+Validation Loss: 9.2950
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [13/4203], Loss: 9.1257
+Validation Loss: 9.1257
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [14/4203], Loss: 8.9050
+Validation Loss: 8.9050
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [15/4203], Loss: 8.7777
+Validation Loss: 8.7777
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [16/4203], Loss: 8.6239
+Validation Loss: 8.6239
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [17/4203], Loss: 8.3916
+Validation Loss: 8.3916
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [18/4203], Loss: 8.3788
+Validation Loss: 8.3788
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [19/4203], Loss: 8.1442
+Validation Loss: 8.1442
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [20/4203], Loss: 7.9987
+Validation Loss: 7.9987
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [21/4203], Loss: 7.8768
+Validation Loss: 7.8768
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [22/4203], Loss: 7.8074
+Validation Loss: 7.8074
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [23/4203], Loss: 7.6587
+Validation Loss: 7.6587
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [24/4203], Loss: 7.6812
+Validation Loss: 7.6812
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [25/4203], Loss: 7.5382
+Validation Loss: 7.5382
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [26/4203], Loss: 7.3485
+Validation Loss: 7.3485
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [27/4203], Loss: 7.3380
+Validation Loss: 7.3380
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [28/4203], Loss: 7.2646
+Validation Loss: 7.2646
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [29/4203], Loss: 7.1851
+Validation Loss: 7.1851
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [30/4203], Loss: 7.0397
+Validation Loss: 7.0397
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [31/4203], Loss: 7.0732
+Validation Loss: 7.0732
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [32/4203], Loss: 7.1642
+Validation Loss: 7.1642
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [33/4203], Loss: 7.0070
+Validation Loss: 7.0070
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [34/4203], Loss: 7.0607
+Validation Loss: 7.0607
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [35/4203], Loss: 6.9022
+Validation Loss: 6.9022
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [36/4203], Loss: 6.9385
+Validation Loss: 6.9385
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [37/4203], Loss: 6.8509
+Validation Loss: 6.8509
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [38/4203], Loss: 6.9439
+Validation Loss: 6.9439
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [39/4203], Loss: 6.8425
+Validation Loss: 6.8425
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [40/4203], Loss: 6.9312
+Validation Loss: 6.9312
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [41/4203], Loss: 6.8964
+Validation Loss: 6.8964
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [42/4203], Loss: 6.8221
+Validation Loss: 6.8221
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [43/4203], Loss: 6.7490
+Validation Loss: 6.7490
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [44/4203], Loss: 6.7744
+Validation Loss: 6.7744
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [45/4203], Loss: 6.9154
+Validation Loss: 6.9154
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [46/4203], Loss: 6.7227
+Validation Loss: 6.7227
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [47/4203], Loss: 6.7988
+Validation Loss: 6.7988
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [48/4203], Loss: 6.7644
+Validation Loss: 6.7644
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [49/4203], Loss: 6.7887
+Validation Loss: 6.7887
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [50/4203], Loss: 6.9190
+Validation Loss: 6.9190
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [51/4203], Loss: 6.8136
+Validation Loss: 6.8136
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [52/4203], Loss: 6.7363
+Validation Loss: 6.7363
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [53/4203], Loss: 6.7582
+Validation Loss: 6.7582
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [54/4203], Loss: 6.7785
+Validation Loss: 6.7785
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [55/4203], Loss: 6.7184
+Validation Loss: 6.7184
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [56/4203], Loss: 6.8462
+Validation Loss: 6.8462
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [57/4203], Loss: 6.8915
+Validation Loss: 6.8915
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [58/4203], Loss: 6.9656
+Validation Loss: 6.9656
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [59/4203], Loss: 6.8481
+Validation Loss: 6.8481
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [60/4203], Loss: 6.8455
+Validation Loss: 6.8455
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [61/4203], Loss: 6.8164
+Validation Loss: 6.8164
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [62/4203], Loss: 6.8284
+Validation Loss: 6.8284
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [63/4203], Loss: 6.8714
+Validation Loss: 6.8714
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [64/4203], Loss: 6.8757
+Validation Loss: 6.8757
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [65/4203], Loss: 6.6882
+Validation Loss: 6.6882
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [66/4203], Loss: 6.7154
+Validation Loss: 6.7154
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [67/4203], Loss: 6.8074
+Validation Loss: 6.8074
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [68/4203], Loss: 6.7727
+Validation Loss: 6.7727
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [69/4203], Loss: 6.8418
+Validation Loss: 6.8418
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [70/4203], Loss: 6.7932
+Validation Loss: 6.7932
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [71/4203], Loss: 6.7157
+Validation Loss: 6.7157
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [72/4203], Loss: 6.8238
+Validation Loss: 6.8238
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [73/4203], Loss: 6.7672
+Validation Loss: 6.7672
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [74/4203], Loss: 6.6639
+Validation Loss: 6.6639
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [75/4203], Loss: 6.7081
+Validation Loss: 6.7081
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [76/4203], Loss: 6.7024
+Validation Loss: 6.7024
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [77/4203], Loss: 6.6801
+Validation Loss: 6.6801
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [78/4203], Loss: 6.8745
+Validation Loss: 6.8745
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [79/4203], Loss: 6.7594
+Validation Loss: 6.7594
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [80/4203], Loss: 6.7534
+Validation Loss: 6.7534
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [81/4203], Loss: 6.7831
+Validation Loss: 6.7831
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [82/4203], Loss: 6.7756
+Validation Loss: 6.7756
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [83/4203], Loss: 6.7834
+Validation Loss: 6.7834
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [84/4203], Loss: 6.6986
+Validation Loss: 6.6986
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [85/4203], Loss: 6.7047
+Validation Loss: 6.7047
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [86/4203], Loss: 6.7305
+Validation Loss: 6.7305
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [87/4203], Loss: 6.6996
+Validation Loss: 6.6996
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [88/4203], Loss: 6.7495
+Validation Loss: 6.7495
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [89/4203], Loss: 6.7439
+Validation Loss: 6.7439
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [90/4203], Loss: 6.8950
+Validation Loss: 6.8950
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [91/4203], Loss: 6.7885
+Validation Loss: 6.7885
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [92/4203], Loss: 6.7897
+Validation Loss: 6.7897
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [93/4203], Loss: 6.7432
+Validation Loss: 6.7432
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [94/4203], Loss: 6.7262
+Validation Loss: 6.7262
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [95/4203], Loss: 6.6667
+Validation Loss: 6.6667
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [96/4203], Loss: 6.7478
+Validation Loss: 6.7478
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [97/4203], Loss: 6.7090
+Validation Loss: 6.7090
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [98/4203], Loss: 6.7659
+Validation Loss: 6.7659
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [99/4203], Loss: 6.7560
+Validation Loss: 6.7560
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [100/4203], Loss: 6.7241
+Validation Loss: 6.7241
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [101/4203], Loss: 6.7579
+Validation Loss: 6.7579
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [102/4203], Loss: 6.6585
+Validation Loss: 6.6585
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [103/4203], Loss: 6.7895
+Validation Loss: 6.7895
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [104/4203], Loss: 6.6970
+Validation Loss: 6.6970
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [105/4203], Loss: 6.7678
+Validation Loss: 6.7678
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [106/4203], Loss: 6.6878
+Validation Loss: 6.6878
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [107/4203], Loss: 6.7000
+Validation Loss: 6.7000
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [108/4203], Loss: 6.8390
+Validation Loss: 6.8390
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [109/4203], Loss: 6.8036
+Validation Loss: 6.8036
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [110/4203], Loss: 6.7197
+Validation Loss: 6.7197
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [111/4203], Loss: 6.8661
+Validation Loss: 6.8661
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [112/4203], Loss: 6.7107
+Validation Loss: 6.7107
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [113/4203], Loss: 6.5875
+Validation Loss: 6.5875
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [114/4203], Loss: 6.7124
+Validation Loss: 6.7124
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [115/4203], Loss: 6.6430
+Validation Loss: 6.6430
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [116/4203], Loss: 6.6910
+Validation Loss: 6.6910
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [117/4203], Loss: 6.7840
+Validation Loss: 6.7840
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [118/4203], Loss: 6.8195
+Validation Loss: 6.8195
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [119/4203], Loss: 6.7606
+Validation Loss: 6.7606
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [120/4203], Loss: 6.7884
+Validation Loss: 6.7884
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [121/4203], Loss: 6.7050
+Validation Loss: 6.7050
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [122/4203], Loss: 6.7307
+Validation Loss: 6.7307
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [123/4203], Loss: 6.6620
+Validation Loss: 6.6620
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [124/4203], Loss: 6.8815
+Validation Loss: 6.8815
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [125/4203], Loss: 6.7411
+Validation Loss: 6.7411
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [126/4203], Loss: 6.6684
+Validation Loss: 6.6684
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [127/4203], Loss: 6.7037
+Validation Loss: 6.7037
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [128/4203], Loss: 6.6860
+Validation Loss: 6.6860
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [129/4203], Loss: 6.7523
+Validation Loss: 6.7523
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [130/4203], Loss: 6.7035
+Validation Loss: 6.7035
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [131/4203], Loss: 6.7955
+Validation Loss: 6.7955
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [132/4203], Loss: 6.6944
+Validation Loss: 6.6944
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [133/4203], Loss: 6.7736
+Validation Loss: 6.7736
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [134/4203], Loss: 6.7494
+Validation Loss: 6.7494
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [135/4203], Loss: 6.7088
+Validation Loss: 6.7088
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [136/4203], Loss: 6.8801
+Validation Loss: 6.8801
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [137/4203], Loss: 6.6577
+Validation Loss: 6.6577
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [138/4203], Loss: 6.7524
+Validation Loss: 6.7524
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [139/4203], Loss: 6.6763
+Validation Loss: 6.6763
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [140/4203], Loss: 6.7808
+Validation Loss: 6.7808
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [141/4203], Loss: 6.7992
+Validation Loss: 6.7992
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [142/4203], Loss: 6.6841
+Validation Loss: 6.6841
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [143/4203], Loss: 6.7460
+Validation Loss: 6.7460
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [144/4203], Loss: 6.7989
+Validation Loss: 6.7989
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [145/4203], Loss: 6.8593
+Validation Loss: 6.8593
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [146/4203], Loss: 6.7165
+Validation Loss: 6.7165
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [147/4203], Loss: 6.7070
+Validation Loss: 6.7070
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [148/4203], Loss: 6.7763
+Validation Loss: 6.7763
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [149/4203], Loss: 6.6317
+Validation Loss: 6.6317
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [150/4203], Loss: 6.7359
+Validation Loss: 6.7359
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [151/4203], Loss: 6.7044
+Validation Loss: 6.7044
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [152/4203], Loss: 6.7467
+Validation Loss: 6.7467
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [153/4203], Loss: 6.6531
+Validation Loss: 6.6531
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [154/4203], Loss: 6.7300
+Validation Loss: 6.7300
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [155/4203], Loss: 6.7154
+Validation Loss: 6.7154
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [156/4203], Loss: 6.7211
+Validation Loss: 6.7211
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [157/4203], Loss: 6.7155
+Validation Loss: 6.7155
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [158/4203], Loss: 6.8170
+Validation Loss: 6.8170
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [159/4203], Loss: 6.7173
+Validation Loss: 6.7173
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [160/4203], Loss: 6.7661
+Validation Loss: 6.7661
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [161/4203], Loss: 6.6715
+Validation Loss: 6.6715
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [162/4203], Loss: 6.7641
+Validation Loss: 6.7641
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [163/4203], Loss: 6.7291
+Validation Loss: 6.7291
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [164/4203], Loss: 6.6904
+Validation Loss: 6.6904
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [165/4203], Loss: 6.7253
+Validation Loss: 6.7253
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [166/4203], Loss: 6.6276
+Validation Loss: 6.6276
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [167/4203], Loss: 6.6755
+Validation Loss: 6.6755
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [168/4203], Loss: 6.7247
+Validation Loss: 6.7247
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [169/4203], Loss: 6.6774
+Validation Loss: 6.6774
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [170/4203], Loss: 6.6693
+Validation Loss: 6.6693
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [171/4203], Loss: 6.7354
+Validation Loss: 6.7354
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [172/4203], Loss: 6.7684
+Validation Loss: 6.7684
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [173/4203], Loss: 6.7302
+Validation Loss: 6.7302
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [174/4203], Loss: 6.6392
+Validation Loss: 6.6392
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [175/4203], Loss: 6.7011
+Validation Loss: 6.7011
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [176/4203], Loss: 6.6555
+Validation Loss: 6.6555
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [177/4203], Loss: 6.6799
+Validation Loss: 6.6799
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [178/4203], Loss: 6.6922
+Validation Loss: 6.6922
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [179/4203], Loss: 6.7915
+Validation Loss: 6.7915
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [180/4203], Loss: 6.8049
+Validation Loss: 6.8049
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [181/4203], Loss: 6.6982
+Validation Loss: 6.6982
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [182/4203], Loss: 6.6866
+Validation Loss: 6.6866
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [183/4203], Loss: 6.6513
+Validation Loss: 6.6513
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [184/4203], Loss: 6.6151
+Validation Loss: 6.6151
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [185/4203], Loss: 6.8101
+Validation Loss: 6.8101
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [186/4203], Loss: 6.7244
+Validation Loss: 6.7244
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [187/4203], Loss: 6.7039
+Validation Loss: 6.7039
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [188/4203], Loss: 6.7140
+Validation Loss: 6.7140
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [189/4203], Loss: 6.6800
+Validation Loss: 6.6800
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [190/4203], Loss: 6.8116
+Validation Loss: 6.8116
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [191/4203], Loss: 6.7393
+Validation Loss: 6.7393
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [192/4203], Loss: 6.6815
+Validation Loss: 6.6815
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [193/4203], Loss: 6.6690
+Validation Loss: 6.6690
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [194/4203], Loss: 6.7364
+Validation Loss: 6.7364
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [195/4203], Loss: 6.7354
+Validation Loss: 6.7354
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [196/4203], Loss: 6.7545
+Validation Loss: 6.7545
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [197/4203], Loss: 6.6901
+Validation Loss: 6.6901
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [198/4203], Loss: 6.6877
+Validation Loss: 6.6877
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [199/4203], Loss: 6.7157
+Validation Loss: 6.7157
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [200/4203], Loss: 6.5926
+Validation Loss: 6.5926
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [201/4203], Loss: 6.6435
+Validation Loss: 6.6435
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [202/4203], Loss: 6.6616
+Validation Loss: 6.6616
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [203/4203], Loss: 6.6365
+Validation Loss: 6.6365
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [204/4203], Loss: 6.5574
+Validation Loss: 6.5574
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [205/4203], Loss: 6.6510
+Validation Loss: 6.6510
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [206/4203], Loss: 6.6707
+Validation Loss: 6.6707
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [207/4203], Loss: 6.6918
+Validation Loss: 6.6918
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [208/4203], Loss: 6.5428
+Validation Loss: 6.5428
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [209/4203], Loss: 6.5745
+Validation Loss: 6.5745
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [210/4203], Loss: 6.6868
+Validation Loss: 6.6868
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [211/4203], Loss: 6.5873
+Validation Loss: 6.5873
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [212/4203], Loss: 6.6414
+Validation Loss: 6.6414
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [213/4203], Loss: 6.6880
+Validation Loss: 6.6880
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [214/4203], Loss: 6.5716
+Validation Loss: 6.5716
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [215/4203], Loss: 6.6743
+Validation Loss: 6.6743
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [216/4203], Loss: 6.6828
+Validation Loss: 6.6828
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [217/4203], Loss: 6.6687
+Validation Loss: 6.6687
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [218/4203], Loss: 6.6721
+Validation Loss: 6.6721
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [219/4203], Loss: 6.7460
+Validation Loss: 6.7460
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [220/4203], Loss: 6.5723
+Validation Loss: 6.5723
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [221/4203], Loss: 6.6066
+Validation Loss: 6.6066
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [222/4203], Loss: 6.5568
+Validation Loss: 6.5568
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [223/4203], Loss: 6.5906
+Validation Loss: 6.5906
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [224/4203], Loss: 6.7425
+Validation Loss: 6.7425
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [225/4203], Loss: 6.7535
+Validation Loss: 6.7535
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [226/4203], Loss: 6.6359
+Validation Loss: 6.6359
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [227/4203], Loss: 6.6355
+Validation Loss: 6.6355
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [228/4203], Loss: 6.6083
+Validation Loss: 6.6083
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [229/4203], Loss: 6.6149
+Validation Loss: 6.6149
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [230/4203], Loss: 6.5220
+Validation Loss: 6.5220
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [231/4203], Loss: 6.5964
+Validation Loss: 6.5964
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [232/4203], Loss: 6.5773
+Validation Loss: 6.5773
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [233/4203], Loss: 6.6521
+Validation Loss: 6.6521
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [234/4203], Loss: 6.7000
+Validation Loss: 6.7000
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [235/4203], Loss: 6.6354
+Validation Loss: 6.6354
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [236/4203], Loss: 6.5541
+Validation Loss: 6.5541
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [237/4203], Loss: 6.6473
+Validation Loss: 6.6473
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [238/4203], Loss: 6.5813
+Validation Loss: 6.5813
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [239/4203], Loss: 6.5519
+Validation Loss: 6.5519
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [240/4203], Loss: 6.7205
+Validation Loss: 6.7205
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [241/4203], Loss: 6.5990
+Validation Loss: 6.5990
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [242/4203], Loss: 6.5321
+Validation Loss: 6.5321
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [243/4203], Loss: 6.4848
+Validation Loss: 6.4848
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [244/4203], Loss: 6.6051
+Validation Loss: 6.6051
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [245/4203], Loss: 6.6047
+Validation Loss: 6.6047
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [246/4203], Loss: 6.5953
+Validation Loss: 6.5953
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [247/4203], Loss: 6.5912
+Validation Loss: 6.5912
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [248/4203], Loss: 6.5979
+Validation Loss: 6.5979
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [249/4203], Loss: 6.4751
+Validation Loss: 6.4751
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [250/4203], Loss: 6.5651
+Validation Loss: 6.5651
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [251/4203], Loss: 6.5142
+Validation Loss: 6.5142
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [252/4203], Loss: 6.6424
+Validation Loss: 6.6424
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [253/4203], Loss: 6.4832
+Validation Loss: 6.4832
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [254/4203], Loss: 6.5320
+Validation Loss: 6.5320
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [255/4203], Loss: 6.5421
+Validation Loss: 6.5421
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [256/4203], Loss: 6.5346
+Validation Loss: 6.5346
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [257/4203], Loss: 6.5920
+Validation Loss: 6.5920
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [258/4203], Loss: 6.4194
+Validation Loss: 6.4194
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [259/4203], Loss: 6.3839
+Validation Loss: 6.3839
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [260/4203], Loss: 6.4881
+Validation Loss: 6.4881
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [261/4203], Loss: 6.3801
+Validation Loss: 6.3801
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [262/4203], Loss: 6.4792
+Validation Loss: 6.4792
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [263/4203], Loss: 6.5173
+Validation Loss: 6.5173
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [264/4203], Loss: 6.4448
+Validation Loss: 6.4448
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [265/4203], Loss: 6.3654
+Validation Loss: 6.3654
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [266/4203], Loss: 6.5478
+Validation Loss: 6.5478
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [267/4203], Loss: 6.5012
+Validation Loss: 6.5012
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [268/4203], Loss: 6.3906
+Validation Loss: 6.3906
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [269/4203], Loss: 6.3679
+Validation Loss: 6.3679
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [270/4203], Loss: 6.4883
+Validation Loss: 6.4883
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [271/4203], Loss: 6.3988
+Validation Loss: 6.3988
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [272/4203], Loss: 6.4879
+Validation Loss: 6.4879
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [273/4203], Loss: 6.4231
+Validation Loss: 6.4231
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [274/4203], Loss: 6.4785
+Validation Loss: 6.4785
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [275/4203], Loss: 6.4609
+Validation Loss: 6.4609
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [276/4203], Loss: 6.4453
+Validation Loss: 6.4453
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [277/4203], Loss: 6.5315
+Validation Loss: 6.5315
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [278/4203], Loss: 6.4599
+Validation Loss: 6.4599
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [279/4203], Loss: 6.4967
+Validation Loss: 6.4967
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [280/4203], Loss: 6.3961
+Validation Loss: 6.3961
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [281/4203], Loss: 6.3993
+Validation Loss: 6.3993
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [282/4203], Loss: 6.4104
+Validation Loss: 6.4104
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [283/4203], Loss: 6.3655
+Validation Loss: 6.3655
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [284/4203], Loss: 6.3161
+Validation Loss: 6.3161
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [285/4203], Loss: 6.3646
+Validation Loss: 6.3646
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [286/4203], Loss: 6.4730
+Validation Loss: 6.4730
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [287/4203], Loss: 6.4423
+Validation Loss: 6.4423
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [288/4203], Loss: 6.4439
+Validation Loss: 6.4439
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [289/4203], Loss: 6.2329
+Validation Loss: 6.2329
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [290/4203], Loss: 6.3569
+Validation Loss: 6.3569
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [291/4203], Loss: 6.4597
+Validation Loss: 6.4597
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [292/4203], Loss: 6.5027
+Validation Loss: 6.5027
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [293/4203], Loss: 6.3352
+Validation Loss: 6.3352
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [294/4203], Loss: 6.3589
+Validation Loss: 6.3589
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [295/4203], Loss: 6.2785
+Validation Loss: 6.2785
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [296/4203], Loss: 6.4741
+Validation Loss: 6.4741
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [297/4203], Loss: 6.3202
+Validation Loss: 6.3202
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [298/4203], Loss: 6.3337
+Validation Loss: 6.3337
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [299/4203], Loss: 6.2555
+Validation Loss: 6.2555
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [300/4203], Loss: 6.2674
+Validation Loss: 6.2674
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [301/4203], Loss: 6.2134
+Validation Loss: 6.2134
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [302/4203], Loss: 6.4426
+Validation Loss: 6.4426
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [303/4203], Loss: 6.2171
+Validation Loss: 6.2171
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [304/4203], Loss: 6.3061
+Validation Loss: 6.3061
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [305/4203], Loss: 6.4663
+Validation Loss: 6.4663
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [306/4203], Loss: 6.2232
+Validation Loss: 6.2232
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [307/4203], Loss: 6.3054
+Validation Loss: 6.3054
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [308/4203], Loss: 6.4978
+Validation Loss: 6.4978
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [309/4203], Loss: 6.3195
+Validation Loss: 6.3195
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [310/4203], Loss: 6.3285
+Validation Loss: 6.3285
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [311/4203], Loss: 6.3218
+Validation Loss: 6.3218
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [312/4203], Loss: 6.3775
+Validation Loss: 6.3775
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [313/4203], Loss: 6.3272
+Validation Loss: 6.3272
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [314/4203], Loss: 6.3245
+Validation Loss: 6.3245
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [315/4203], Loss: 6.2001
+Validation Loss: 6.2001
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [316/4203], Loss: 6.3453
+Validation Loss: 6.3453
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [317/4203], Loss: 6.3678
+Validation Loss: 6.3678
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [318/4203], Loss: 6.2979
+Validation Loss: 6.2979
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [319/4203], Loss: 6.1647
+Validation Loss: 6.1647
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [320/4203], Loss: 6.1815
+Validation Loss: 6.1815
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [321/4203], Loss: 6.4357
+Validation Loss: 6.4357
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [322/4203], Loss: 6.2310
+Validation Loss: 6.2310
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [323/4203], Loss: 6.3580
+Validation Loss: 6.3580
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [324/4203], Loss: 6.1494
+Validation Loss: 6.1494
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [325/4203], Loss: 6.2595
+Validation Loss: 6.2595
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [326/4203], Loss: 6.2678
+Validation Loss: 6.2678
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [327/4203], Loss: 6.3210
+Validation Loss: 6.3210
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [328/4203], Loss: 6.1933
+Validation Loss: 6.1933
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [329/4203], Loss: 6.4311
+Validation Loss: 6.4311
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [330/4203], Loss: 6.2155
+Validation Loss: 6.2155
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [331/4203], Loss: 6.2598
+Validation Loss: 6.2598
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [332/4203], Loss: 6.1664
+Validation Loss: 6.1664
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [333/4203], Loss: 6.0885
+Validation Loss: 6.0885
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [334/4203], Loss: 6.2294
+Validation Loss: 6.2294
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [335/4203], Loss: 6.1200
+Validation Loss: 6.1200
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [336/4203], Loss: 6.0945
+Validation Loss: 6.0945
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [337/4203], Loss: 6.0581
+Validation Loss: 6.0581
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [338/4203], Loss: 6.1316
+Validation Loss: 6.1316
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [339/4203], Loss: 6.2649
+Validation Loss: 6.2649
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [340/4203], Loss: 6.0874
+Validation Loss: 6.0874
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [341/4203], Loss: 6.0251
+Validation Loss: 6.0251
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [342/4203], Loss: 6.1619
+Validation Loss: 6.1619
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [343/4203], Loss: 6.0856
+Validation Loss: 6.0856
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [344/4203], Loss: 6.0207
+Validation Loss: 6.0207
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [345/4203], Loss: 6.1481
+Validation Loss: 6.1481
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [346/4203], Loss: 6.2088
+Validation Loss: 6.2088
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [347/4203], Loss: 6.2483
+Validation Loss: 6.2483
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [348/4203], Loss: 6.1594
+Validation Loss: 6.1594
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [349/4203], Loss: 6.0983
+Validation Loss: 6.0983
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [350/4203], Loss: 6.2165
+Validation Loss: 6.2165
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [351/4203], Loss: 6.0245
+Validation Loss: 6.0245
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [352/4203], Loss: 6.0848
+Validation Loss: 6.0848
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [353/4203], Loss: 5.9481
+Validation Loss: 5.9481
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [354/4203], Loss: 5.9612
+Validation Loss: 5.9612
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [355/4203], Loss: 6.1047
+Validation Loss: 6.1047
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [356/4203], Loss: 5.8896
+Validation Loss: 5.8896
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [357/4203], Loss: 6.1552
+Validation Loss: 6.1552
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [358/4203], Loss: 6.0738
+Validation Loss: 6.0738
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [359/4203], Loss: 6.1186
+Validation Loss: 6.1186
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [360/4203], Loss: 6.1369
+Validation Loss: 6.1369
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [361/4203], Loss: 6.0569
+Validation Loss: 6.0569
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [362/4203], Loss: 6.0873
+Validation Loss: 6.0873
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [363/4203], Loss: 6.0506
+Validation Loss: 6.0506
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [364/4203], Loss: 6.1246
+Validation Loss: 6.1246
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [365/4203], Loss: 6.0375
+Validation Loss: 6.0375
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [366/4203], Loss: 6.0435
+Validation Loss: 6.0435
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [367/4203], Loss: 6.1013
+Validation Loss: 6.1013
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [368/4203], Loss: 6.0340
+Validation Loss: 6.0340
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [369/4203], Loss: 6.0255
+Validation Loss: 6.0255
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [370/4203], Loss: 5.9939
+Validation Loss: 5.9939
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [371/4203], Loss: 6.0882
+Validation Loss: 6.0882
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [372/4203], Loss: 5.9022
+Validation Loss: 5.9022
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [373/4203], Loss: 6.0128
+Validation Loss: 6.0128
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [374/4203], Loss: 5.9012
+Validation Loss: 5.9012
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [375/4203], Loss: 5.9982
+Validation Loss: 5.9982
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [376/4203], Loss: 5.9241
+Validation Loss: 5.9241
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [377/4203], Loss: 5.9659
+Validation Loss: 5.9659
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [378/4203], Loss: 5.9376
+Validation Loss: 5.9376
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [379/4203], Loss: 5.8724
+Validation Loss: 5.8724
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [380/4203], Loss: 5.9334
+Validation Loss: 5.9334
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [381/4203], Loss: 5.8740
+Validation Loss: 5.8740
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [382/4203], Loss: 6.0773
+Validation Loss: 6.0773
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [383/4203], Loss: 5.9727
+Validation Loss: 5.9727
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [384/4203], Loss: 6.0408
+Validation Loss: 6.0408
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [385/4203], Loss: 5.8462
+Validation Loss: 5.8462
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [386/4203], Loss: 5.9668
+Validation Loss: 5.9668
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [387/4203], Loss: 6.1895
+Validation Loss: 6.1895
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [388/4203], Loss: 5.8995
+Validation Loss: 5.8995
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [389/4203], Loss: 5.9975
+Validation Loss: 5.9975
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [390/4203], Loss: 5.8153
+Validation Loss: 5.8153
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [391/4203], Loss: 5.8746
+Validation Loss: 5.8746
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [392/4203], Loss: 6.0472
+Validation Loss: 6.0472
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [393/4203], Loss: 5.9924
+Validation Loss: 5.9924
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [394/4203], Loss: 5.8498
+Validation Loss: 5.8498
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [395/4203], Loss: 5.9723
+Validation Loss: 5.9723
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [396/4203], Loss: 5.9872
+Validation Loss: 5.9872
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [397/4203], Loss: 5.9229
+Validation Loss: 5.9229
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [398/4203], Loss: 5.9411
+Validation Loss: 5.9411
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [399/4203], Loss: 5.8083
+Validation Loss: 5.8083
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [400/4203], Loss: 5.9936
+Validation Loss: 5.9936
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [401/4203], Loss: 5.8911
+Validation Loss: 5.8911
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [402/4203], Loss: 6.0642
+Validation Loss: 6.0642
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [403/4203], Loss: 5.8956
+Validation Loss: 5.8956
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [404/4203], Loss: 5.8689
+Validation Loss: 5.8689
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [405/4203], Loss: 5.8395
+Validation Loss: 5.8395
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [406/4203], Loss: 5.9178
+Validation Loss: 5.9178
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [407/4203], Loss: 5.9246
+Validation Loss: 5.9246
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [408/4203], Loss: 5.9122
+Validation Loss: 5.9122
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [409/4203], Loss: 5.8378
+Validation Loss: 5.8378
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [410/4203], Loss: 5.7801
+Validation Loss: 5.7801
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [411/4203], Loss: 6.0460
+Validation Loss: 6.0460
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [412/4203], Loss: 5.9135
+Validation Loss: 5.9135
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [413/4203], Loss: 5.7941
+Validation Loss: 5.7941
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [414/4203], Loss: 5.8792
+Validation Loss: 5.8792
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [415/4203], Loss: 5.8873
+Validation Loss: 5.8873
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [416/4203], Loss: 5.7765
+Validation Loss: 5.7765
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [417/4203], Loss: 5.8461
+Validation Loss: 5.8461
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [418/4203], Loss: 5.8817
+Validation Loss: 5.8817
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [419/4203], Loss: 5.7648
+Validation Loss: 5.7648
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [420/4203], Loss: 5.8480
+Validation Loss: 5.8480
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [421/4203], Loss: 5.7744
+Validation Loss: 5.7744
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [422/4203], Loss: 5.8985
+Validation Loss: 5.8985
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [423/4203], Loss: 5.9801
+Validation Loss: 5.9801
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [424/4203], Loss: 6.0387
+Validation Loss: 6.0387
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [425/4203], Loss: 5.9859
+Validation Loss: 5.9859
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [426/4203], Loss: 5.9285
+Validation Loss: 5.9285
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [427/4203], Loss: 5.8681
+Validation Loss: 5.8681
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [428/4203], Loss: 5.8010
+Validation Loss: 5.8010
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [429/4203], Loss: 5.6886
+Validation Loss: 5.6886
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [430/4203], Loss: 5.9693
+Validation Loss: 5.9693
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [431/4203], Loss: 5.7912
+Validation Loss: 5.7912
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [432/4203], Loss: 5.9463
+Validation Loss: 5.9463
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [433/4203], Loss: 5.8549
+Validation Loss: 5.8549
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [434/4203], Loss: 5.7570
+Validation Loss: 5.7570
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [435/4203], Loss: 5.8593
+Validation Loss: 5.8593
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [436/4203], Loss: 5.8975
+Validation Loss: 5.8975
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [437/4203], Loss: 5.7766
+Validation Loss: 5.7766
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [438/4203], Loss: 5.7697
+Validation Loss: 5.7697
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [439/4203], Loss: 5.9868
+Validation Loss: 5.9868
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [440/4203], Loss: 5.7013
+Validation Loss: 5.7013
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [441/4203], Loss: 5.7148
+Validation Loss: 5.7148
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [442/4203], Loss: 5.7847
+Validation Loss: 5.7847
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [443/4203], Loss: 5.6919
+Validation Loss: 5.6919
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [444/4203], Loss: 5.7435
+Validation Loss: 5.7435
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [445/4203], Loss: 5.7524
+Validation Loss: 5.7524
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [446/4203], Loss: 5.7373
+Validation Loss: 5.7373
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [447/4203], Loss: 5.7388
+Validation Loss: 5.7388
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [448/4203], Loss: 5.8688
+Validation Loss: 5.8688
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [449/4203], Loss: 5.8213
+Validation Loss: 5.8213
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [450/4203], Loss: 5.8686
+Validation Loss: 5.8686
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [451/4203], Loss: 5.7355
+Validation Loss: 5.7355
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [452/4203], Loss: 5.9339
+Validation Loss: 5.9339
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [453/4203], Loss: 5.8705
+Validation Loss: 5.8705
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [454/4203], Loss: 5.6837
+Validation Loss: 5.6837
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [455/4203], Loss: 5.7411
+Validation Loss: 5.7411
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [456/4203], Loss: 5.8475
+Validation Loss: 5.8475
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [457/4203], Loss: 5.8227
+Validation Loss: 5.8227
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [458/4203], Loss: 5.8263
+Validation Loss: 5.8263
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [459/4203], Loss: 5.6927
+Validation Loss: 5.6927
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [460/4203], Loss: 5.9556
+Validation Loss: 5.9556
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [461/4203], Loss: 5.7121
+Validation Loss: 5.7121
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [462/4203], Loss: 5.7817
+Validation Loss: 5.7817
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [463/4203], Loss: 5.9239
+Validation Loss: 5.9239
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [464/4203], Loss: 5.8921
+Validation Loss: 5.8921
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [465/4203], Loss: 5.8212
+Validation Loss: 5.8212
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [466/4203], Loss: 5.6883
+Validation Loss: 5.6883
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [467/4203], Loss: 5.7726
+Validation Loss: 5.7726
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [468/4203], Loss: 5.7765
+Validation Loss: 5.7765
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [469/4203], Loss: 5.7573
+Validation Loss: 5.7573
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [470/4203], Loss: 6.0047
+Validation Loss: 6.0047
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [471/4203], Loss: 5.8544
+Validation Loss: 5.8544
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [472/4203], Loss: 5.9283
+Validation Loss: 5.9283
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [473/4203], Loss: 5.8054
+Validation Loss: 5.8054
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [474/4203], Loss: 5.7641
+Validation Loss: 5.7641
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [475/4203], Loss: 5.8285
+Validation Loss: 5.8285
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [476/4203], Loss: 5.6392
+Validation Loss: 5.6392
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [477/4203], Loss: 5.6818
+Validation Loss: 5.6818
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [478/4203], Loss: 5.6005
+Validation Loss: 5.6005
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [479/4203], Loss: 5.6621
+Validation Loss: 5.6621
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [480/4203], Loss: 5.7740
+Validation Loss: 5.7740
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [481/4203], Loss: 5.7121
+Validation Loss: 5.7121
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [482/4203], Loss: 5.8387
+Validation Loss: 5.8387
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [483/4203], Loss: 5.8032
+Validation Loss: 5.8032
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [484/4203], Loss: 5.8035
+Validation Loss: 5.8035
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [485/4203], Loss: 5.8379
+Validation Loss: 5.8379
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [486/4203], Loss: 5.7558
+Validation Loss: 5.7558
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [487/4203], Loss: 5.7324
+Validation Loss: 5.7324
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [488/4203], Loss: 5.8279
+Validation Loss: 5.8279
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [489/4203], Loss: 5.7037
+Validation Loss: 5.7037
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [490/4203], Loss: 5.7816
+Validation Loss: 5.7816
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [491/4203], Loss: 5.6268
+Validation Loss: 5.6268
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [492/4203], Loss: 5.7124
+Validation Loss: 5.7124
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [493/4203], Loss: 5.8047
+Validation Loss: 5.8047
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [494/4203], Loss: 5.6821
+Validation Loss: 5.6821
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [495/4203], Loss: 5.7844
+Validation Loss: 5.7844
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [496/4203], Loss: 5.7556
+Validation Loss: 5.7556
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [497/4203], Loss: 5.6926
+Validation Loss: 5.6926
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [498/4203], Loss: 5.7623
+Validation Loss: 5.7623
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [499/4203], Loss: 5.6922
+Validation Loss: 5.6922
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [500/4203], Loss: 5.7709
+Validation Loss: 5.7709
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [501/4203], Loss: 5.6068
+Validation Loss: 5.6068
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [502/4203], Loss: 5.5643
+Validation Loss: 5.5643
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [503/4203], Loss: 5.6934
+Validation Loss: 5.6934
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [504/4203], Loss: 5.7659
+Validation Loss: 5.7659
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [505/4203], Loss: 5.6575
+Validation Loss: 5.6575
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [506/4203], Loss: 5.6303
+Validation Loss: 5.6303
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [507/4203], Loss: 5.6437
+Validation Loss: 5.6437
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [508/4203], Loss: 5.7466
+Validation Loss: 5.7466
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [509/4203], Loss: 5.6455
+Validation Loss: 5.6455
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [510/4203], Loss: 5.5910
+Validation Loss: 5.5910
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [511/4203], Loss: 5.5739
+Validation Loss: 5.5739
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [512/4203], Loss: 5.7233
+Validation Loss: 5.7233
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [513/4203], Loss: 5.5104
+Validation Loss: 5.5104
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [514/4203], Loss: 5.7253
+Validation Loss: 5.7253
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [515/4203], Loss: 5.5887
+Validation Loss: 5.5887
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [516/4203], Loss: 5.6566
+Validation Loss: 5.6566
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [517/4203], Loss: 5.5257
+Validation Loss: 5.5257
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [518/4203], Loss: 5.7694
+Validation Loss: 5.7694
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [519/4203], Loss: 5.6144
+Validation Loss: 5.6144
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [520/4203], Loss: 5.6526
+Validation Loss: 5.6526
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [521/4203], Loss: 5.5747
+Validation Loss: 5.5747
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [522/4203], Loss: 5.6763
+Validation Loss: 5.6763
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [523/4203], Loss: 5.6999
+Validation Loss: 5.6999
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [524/4203], Loss: 5.5835
+Validation Loss: 5.5835
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [525/4203], Loss: 5.6233
+Validation Loss: 5.6233
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [526/4203], Loss: 5.6388
+Validation Loss: 5.6388
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [527/4203], Loss: 5.6609
+Validation Loss: 5.6609
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [528/4203], Loss: 5.6810
+Validation Loss: 5.6810
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [529/4203], Loss: 5.7377
+Validation Loss: 5.7377
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [530/4203], Loss: 5.5923
+Validation Loss: 5.5923
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [531/4203], Loss: 5.7207
+Validation Loss: 5.7207
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [532/4203], Loss: 5.7686
+Validation Loss: 5.7686
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [533/4203], Loss: 5.6878
+Validation Loss: 5.6878
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [534/4203], Loss: 5.7120
+Validation Loss: 5.7120
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [535/4203], Loss: 5.6436
+Validation Loss: 5.6436
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [536/4203], Loss: 5.8948
+Validation Loss: 5.8948
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [537/4203], Loss: 5.6359
+Validation Loss: 5.6359
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [538/4203], Loss: 5.7259
+Validation Loss: 5.7259
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [539/4203], Loss: 5.5831
+Validation Loss: 5.5831
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [540/4203], Loss: 5.5189
+Validation Loss: 5.5189
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [541/4203], Loss: 5.5553
+Validation Loss: 5.5553
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [542/4203], Loss: 5.6613
+Validation Loss: 5.6613
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [543/4203], Loss: 5.5632
+Validation Loss: 5.5632
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [544/4203], Loss: 5.6720
+Validation Loss: 5.6720
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [545/4203], Loss: 5.6901
+Validation Loss: 5.6901
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [546/4203], Loss: 5.5331
+Validation Loss: 5.5331
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [547/4203], Loss: 5.8390
+Validation Loss: 5.8390
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [548/4203], Loss: 5.4773
+Validation Loss: 5.4773
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [549/4203], Loss: 5.5938
+Validation Loss: 5.5938
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [550/4203], Loss: 5.5138
+Validation Loss: 5.5138
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [551/4203], Loss: 5.5655
+Validation Loss: 5.5655
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [552/4203], Loss: 5.4962
+Validation Loss: 5.4962
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [553/4203], Loss: 5.7900
+Validation Loss: 5.7900
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [554/4203], Loss: 5.6138
+Validation Loss: 5.6138
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [555/4203], Loss: 5.5831
+Validation Loss: 5.5831
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [556/4203], Loss: 5.6063
+Validation Loss: 5.6063
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [557/4203], Loss: 5.4691
+Validation Loss: 5.4691
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [558/4203], Loss: 5.5754
+Validation Loss: 5.5754
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [559/4203], Loss: 5.5093
+Validation Loss: 5.5093
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [560/4203], Loss: 5.7017
+Validation Loss: 5.7017
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [561/4203], Loss: 5.5802
+Validation Loss: 5.5802
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [562/4203], Loss: 5.6637
+Validation Loss: 5.6637
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [563/4203], Loss: 5.6506
+Validation Loss: 5.6506
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [564/4203], Loss: 5.5076
+Validation Loss: 5.5076
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [565/4203], Loss: 5.6253
+Validation Loss: 5.6253
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [566/4203], Loss: 5.5312
+Validation Loss: 5.5312
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [567/4203], Loss: 5.6306
+Validation Loss: 5.6306
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [568/4203], Loss: 5.6255
+Validation Loss: 5.6255
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [569/4203], Loss: 5.5772
+Validation Loss: 5.5772
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [570/4203], Loss: 5.4703
+Validation Loss: 5.4703
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [571/4203], Loss: 5.6802
+Validation Loss: 5.6802
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [572/4203], Loss: 5.5754
+Validation Loss: 5.5754
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [573/4203], Loss: 5.6550
+Validation Loss: 5.6550
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [574/4203], Loss: 5.7644
+Validation Loss: 5.7644
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [575/4203], Loss: 5.5887
+Validation Loss: 5.5887
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [576/4203], Loss: 5.5489
+Validation Loss: 5.5489
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [577/4203], Loss: 5.6273
+Validation Loss: 5.6273
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [578/4203], Loss: 5.6382
+Validation Loss: 5.6382
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [579/4203], Loss: 5.6834
+Validation Loss: 5.6834
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [580/4203], Loss: 5.5628
+Validation Loss: 5.5628
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [581/4203], Loss: 5.6203
+Validation Loss: 5.6203
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [582/4203], Loss: 5.5097
+Validation Loss: 5.5097
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [583/4203], Loss: 5.6323
+Validation Loss: 5.6323
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [584/4203], Loss: 5.5893
+Validation Loss: 5.5893
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [585/4203], Loss: 5.5894
+Validation Loss: 5.5894
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [586/4203], Loss: 5.5656
+Validation Loss: 5.5656
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [587/4203], Loss: 5.6258
+Validation Loss: 5.6258
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [588/4203], Loss: 5.3935
+Validation Loss: 5.3935
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [589/4203], Loss: 5.6363
+Validation Loss: 5.6363
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [590/4203], Loss: 5.5821
+Validation Loss: 5.5821
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [591/4203], Loss: 5.5036
+Validation Loss: 5.5036
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [592/4203], Loss: 5.5120
+Validation Loss: 5.5120
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [593/4203], Loss: 5.4349
+Validation Loss: 5.4349
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [594/4203], Loss: 5.5129
+Validation Loss: 5.5129
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [595/4203], Loss: 5.3838
+Validation Loss: 5.3838
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [596/4203], Loss: 5.4758
+Validation Loss: 5.4758
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [597/4203], Loss: 5.5142
+Validation Loss: 5.5142
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [598/4203], Loss: 5.5489
+Validation Loss: 5.5489
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [599/4203], Loss: 5.6699
+Validation Loss: 5.6699
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [600/4203], Loss: 5.5261
+Validation Loss: 5.5261
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [601/4203], Loss: 5.5918
+Validation Loss: 5.5918
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [602/4203], Loss: 5.4910
+Validation Loss: 5.4910
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [603/4203], Loss: 5.5412
+Validation Loss: 5.5412
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [604/4203], Loss: 5.5677
+Validation Loss: 5.5677
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [605/4203], Loss: 5.4609
+Validation Loss: 5.4609
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [606/4203], Loss: 5.5666
+Validation Loss: 5.5666
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [607/4203], Loss: 5.3727
+Validation Loss: 5.3727
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [608/4203], Loss: 5.6030
+Validation Loss: 5.6030
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [609/4203], Loss: 5.5103
+Validation Loss: 5.5103
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [610/4203], Loss: 5.5573
+Validation Loss: 5.5573
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [611/4203], Loss: 5.6279
+Validation Loss: 5.6279
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [612/4203], Loss: 5.5015
+Validation Loss: 5.5015
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [613/4203], Loss: 5.5168
+Validation Loss: 5.5168
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [614/4203], Loss: 5.3963
+Validation Loss: 5.3963
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [615/4203], Loss: 5.5079
+Validation Loss: 5.5079
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [616/4203], Loss: 5.3527
+Validation Loss: 5.3527
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [617/4203], Loss: 5.5378
+Validation Loss: 5.5378
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [618/4203], Loss: 5.3225
+Validation Loss: 5.3225
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [619/4203], Loss: 5.5101
+Validation Loss: 5.5101
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [620/4203], Loss: 5.6128
+Validation Loss: 5.6128
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [621/4203], Loss: 5.5074
+Validation Loss: 5.5074
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [622/4203], Loss: 5.3955
+Validation Loss: 5.3955
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [623/4203], Loss: 5.5467
+Validation Loss: 5.5467
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [624/4203], Loss: 5.5624
+Validation Loss: 5.5624
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [625/4203], Loss: 5.5734
+Validation Loss: 5.5734
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [626/4203], Loss: 5.5484
+Validation Loss: 5.5484
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [627/4203], Loss: 5.5177
+Validation Loss: 5.5177
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [628/4203], Loss: 5.5145
+Validation Loss: 5.5145
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [629/4203], Loss: 5.4324
+Validation Loss: 5.4324
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [630/4203], Loss: 5.6631
+Validation Loss: 5.6631
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [631/4203], Loss: 5.5716
+Validation Loss: 5.5716
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [632/4203], Loss: 5.4800
+Validation Loss: 5.4800
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [633/4203], Loss: 5.4115
+Validation Loss: 5.4115
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [634/4203], Loss: 5.5700
+Validation Loss: 5.5700
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [635/4203], Loss: 5.5016
+Validation Loss: 5.5016
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [636/4203], Loss: 5.4677
+Validation Loss: 5.4677
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [637/4203], Loss: 5.4429
+Validation Loss: 5.4429
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [638/4203], Loss: 5.5020
+Validation Loss: 5.5020
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [639/4203], Loss: 5.5363
+Validation Loss: 5.5363
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [640/4203], Loss: 5.5092
+Validation Loss: 5.5092
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [641/4203], Loss: 5.5361
+Validation Loss: 5.5361
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [642/4203], Loss: 5.6430
+Validation Loss: 5.6430
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [643/4203], Loss: 5.3148
+Validation Loss: 5.3148
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [644/4203], Loss: 5.4847
+Validation Loss: 5.4847
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [645/4203], Loss: 5.4290
+Validation Loss: 5.4290
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [646/4203], Loss: 5.4721
+Validation Loss: 5.4721
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [647/4203], Loss: 5.4919
+Validation Loss: 5.4919
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [648/4203], Loss: 5.5471
+Validation Loss: 5.5471
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [649/4203], Loss: 5.5836
+Validation Loss: 5.5836
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [650/4203], Loss: 5.3774
+Validation Loss: 5.3774
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [651/4203], Loss: 5.4595
+Validation Loss: 5.4595
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [652/4203], Loss: 5.5135
+Validation Loss: 5.5135
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [653/4203], Loss: 5.3731
+Validation Loss: 5.3731
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [654/4203], Loss: 5.3861
+Validation Loss: 5.3861
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [655/4203], Loss: 5.4014
+Validation Loss: 5.4014
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [656/4203], Loss: 5.5682
+Validation Loss: 5.5682
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [657/4203], Loss: 5.5289
+Validation Loss: 5.5289
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [658/4203], Loss: 5.5110
+Validation Loss: 5.5110
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [659/4203], Loss: 5.4442
+Validation Loss: 5.4442
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [660/4203], Loss: 5.5776
+Validation Loss: 5.5776
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [661/4203], Loss: 5.3983
+Validation Loss: 5.3983
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [662/4203], Loss: 5.4606
+Validation Loss: 5.4606
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [663/4203], Loss: 5.4969
+Validation Loss: 5.4969
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [664/4203], Loss: 5.4427
+Validation Loss: 5.4427
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [665/4203], Loss: 5.3765
+Validation Loss: 5.3765
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [666/4203], Loss: 5.5122
+Validation Loss: 5.5122
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [667/4203], Loss: 5.4045
+Validation Loss: 5.4045
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [668/4203], Loss: 5.5210
+Validation Loss: 5.5210
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [669/4203], Loss: 5.4774
+Validation Loss: 5.4774
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [670/4203], Loss: 5.5652
+Validation Loss: 5.5652
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [671/4203], Loss: 5.5116
+Validation Loss: 5.5116
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [672/4203], Loss: 5.3593
+Validation Loss: 5.3593
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [673/4203], Loss: 5.4691
+Validation Loss: 5.4691
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [674/4203], Loss: 5.4611
+Validation Loss: 5.4611
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [675/4203], Loss: 5.4982
+Validation Loss: 5.4982
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [676/4203], Loss: 5.4307
+Validation Loss: 5.4307
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [677/4203], Loss: 5.3064
+Validation Loss: 5.3064
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [678/4203], Loss: 5.4050
+Validation Loss: 5.4050
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [679/4203], Loss: 5.4172
+Validation Loss: 5.4172
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [680/4203], Loss: 5.3757
+Validation Loss: 5.3757
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [681/4203], Loss: 5.3491
+Validation Loss: 5.3491
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [682/4203], Loss: 5.4366
+Validation Loss: 5.4366
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [683/4203], Loss: 5.3723
+Validation Loss: 5.3723
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [684/4203], Loss: 5.5329
+Validation Loss: 5.5329
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [685/4203], Loss: 5.4138
+Validation Loss: 5.4138
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [686/4203], Loss: 5.4545
+Validation Loss: 5.4545
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [687/4203], Loss: 5.3336
+Validation Loss: 5.3336
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [688/4203], Loss: 5.5793
+Validation Loss: 5.5793
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [689/4203], Loss: 5.2773
+Validation Loss: 5.2773
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [690/4203], Loss: 5.4038
+Validation Loss: 5.4038
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [691/4203], Loss: 5.5094
+Validation Loss: 5.5094
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [692/4203], Loss: 5.4634
+Validation Loss: 5.4634
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [693/4203], Loss: 5.3612
+Validation Loss: 5.3612
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [694/4203], Loss: 5.4971
+Validation Loss: 5.4971
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [695/4203], Loss: 5.5599
+Validation Loss: 5.5599
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [696/4203], Loss: 5.3467
+Validation Loss: 5.3467
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [697/4203], Loss: 5.4248
+Validation Loss: 5.4248
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [698/4203], Loss: 5.4050
+Validation Loss: 5.4050
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [699/4203], Loss: 5.5283
+Validation Loss: 5.5283
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [700/4203], Loss: 5.4767
+Validation Loss: 5.4767
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [701/4203], Loss: 5.2737
+Validation Loss: 5.2737
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [702/4203], Loss: 5.4339
+Validation Loss: 5.4339
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [703/4203], Loss: 5.3209
+Validation Loss: 5.3209
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [704/4203], Loss: 5.3031
+Validation Loss: 5.3031
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [705/4203], Loss: 5.5294
+Validation Loss: 5.5294
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [706/4203], Loss: 5.4066
+Validation Loss: 5.4066
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [707/4203], Loss: 5.3700
+Validation Loss: 5.3700
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [708/4203], Loss: 5.5326
+Validation Loss: 5.5326
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [709/4203], Loss: 5.5483
+Validation Loss: 5.5483
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [710/4203], Loss: 5.3665
+Validation Loss: 5.3665
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [711/4203], Loss: 5.4323
+Validation Loss: 5.4323
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [712/4203], Loss: 5.3796
+Validation Loss: 5.3796
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [713/4203], Loss: 5.2241
+Validation Loss: 5.2241
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [714/4203], Loss: 5.5676
+Validation Loss: 5.5676
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [715/4203], Loss: 5.4207
+Validation Loss: 5.4207
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [716/4203], Loss: 5.3625
+Validation Loss: 5.3625
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [717/4203], Loss: 5.4516
+Validation Loss: 5.4516
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [718/4203], Loss: 5.2752
+Validation Loss: 5.2752
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [719/4203], Loss: 5.5057
+Validation Loss: 5.5057
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [720/4203], Loss: 5.4969
+Validation Loss: 5.4969
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [721/4203], Loss: 5.3432
+Validation Loss: 5.3432
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [722/4203], Loss: 5.3320
+Validation Loss: 5.3320
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [723/4203], Loss: 5.3077
+Validation Loss: 5.3077
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [724/4203], Loss: 5.3499
+Validation Loss: 5.3499
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [725/4203], Loss: 5.3110
+Validation Loss: 5.3110
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [726/4203], Loss: 5.4305
+Validation Loss: 5.4305
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [727/4203], Loss: 5.3723
+Validation Loss: 5.3723
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [728/4203], Loss: 5.4372
+Validation Loss: 5.4372
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [729/4203], Loss: 5.3785
+Validation Loss: 5.3785
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [730/4203], Loss: 5.4550
+Validation Loss: 5.4550
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [731/4203], Loss: 5.3616
+Validation Loss: 5.3616
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [732/4203], Loss: 5.3932
+Validation Loss: 5.3932
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [733/4203], Loss: 5.1621
+Validation Loss: 5.1621
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [734/4203], Loss: 5.3719
+Validation Loss: 5.3719
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [735/4203], Loss: 5.4877
+Validation Loss: 5.4877
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [736/4203], Loss: 5.4395
+Validation Loss: 5.4395
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [737/4203], Loss: 5.4960
+Validation Loss: 5.4960
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [738/4203], Loss: 5.2984
+Validation Loss: 5.2984
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [739/4203], Loss: 5.2436
+Validation Loss: 5.2436
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [740/4203], Loss: 5.2211
+Validation Loss: 5.2211
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [741/4203], Loss: 5.2456
+Validation Loss: 5.2456
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [742/4203], Loss: 5.5403
+Validation Loss: 5.5403
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [743/4203], Loss: 5.5773
+Validation Loss: 5.5773
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [744/4203], Loss: 5.3960
+Validation Loss: 5.3960
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [745/4203], Loss: 5.6383
+Validation Loss: 5.6383
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [746/4203], Loss: 5.4235
+Validation Loss: 5.4235
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [747/4203], Loss: 5.3109
+Validation Loss: 5.3109
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [748/4203], Loss: 5.2578
+Validation Loss: 5.2578
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [749/4203], Loss: 5.3487
+Validation Loss: 5.3487
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [750/4203], Loss: 5.3946
+Validation Loss: 5.3946
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [751/4203], Loss: 5.3706
+Validation Loss: 5.3706
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [752/4203], Loss: 5.1683
+Validation Loss: 5.1683
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [753/4203], Loss: 5.4524
+Validation Loss: 5.4524
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [754/4203], Loss: 5.4128
+Validation Loss: 5.4128
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [755/4203], Loss: 5.3137
+Validation Loss: 5.3137
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [756/4203], Loss: 5.2333
+Validation Loss: 5.2333
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [757/4203], Loss: 5.3660
+Validation Loss: 5.3660
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [758/4203], Loss: 5.3226
+Validation Loss: 5.3226
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [759/4203], Loss: 5.5296
+Validation Loss: 5.5296
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [760/4203], Loss: 5.3305
+Validation Loss: 5.3305
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [761/4203], Loss: 5.3177
+Validation Loss: 5.3177
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [762/4203], Loss: 5.2454
+Validation Loss: 5.2454
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [763/4203], Loss: 5.2338
+Validation Loss: 5.2338
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [764/4203], Loss: 5.3065
+Validation Loss: 5.3065
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [765/4203], Loss: 5.0695
+Validation Loss: 5.0695
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [766/4203], Loss: 5.4117
+Validation Loss: 5.4117
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [767/4203], Loss: 5.3464
+Validation Loss: 5.3464
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [768/4203], Loss: 5.3396
+Validation Loss: 5.3396
+Current/Maximum GPU memory used: 2.35/7.00 GB
+Epoch [1/4], Step [769/4203], Loss: 5.2994
+slurmstepd: error: *** JOB 371968 ON scholar-g003 CANCELLED AT 2025-04-23T14:03:09 DUE TO TIME LIMIT ***
