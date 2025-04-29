@@ -15,7 +15,7 @@ import sys
 sys.stdout.flush()
 
 #experiment_name = mod_arch1, change use attention only with linear layer, no mlp no nothing
-#                = mod_arch2, use linear_attention+ffn  with first 3 layers, then use only ffwd
+#                = mod_arch2, use linear_attention+ffn  with first 1 layer, then use only ffwd for the rest
 #things to experiment with iterations, n_heads, bloc_size, batched_gradients
 experiment_name = "Mod_arch2"
 result_path = f"results/{experiment_name}"
@@ -35,8 +35,7 @@ n_hidden_layers = 1
 dropout = 0.2
 hidden_size = block_size
 
-# To download the tinyshakespeare run the following line in terminal
-# wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+
 print("now reading", flush = True)
 with open("../hw4/input.txt", "r", encoding="utf-8") as f:
     text = f.read()
@@ -213,15 +212,6 @@ class GPTLanguageModel(nn.Module):
                 MultiHeadAttention(n_head, head_size, mlp_attention=mlp_attention),
                 *[FeedFoward(n_embd) for _ in range(n_layer-1)]
             )
-        #    self.blocks = nn.Sequential( 
-        #            *[nn.Sequential(
-        #                nn.Linear(n_embd, 2 * n_embd),
-        #                nn.ReLU(),
-        #                nn.Linear(2 * n_embd, n_embd),
-        #                nn.Dropout(dropout)
-        #                ) for _ in range(n_head*n_layer)
-        #            ]
-        #)
         else:
             self.blocks = nn.Sequential(
                 *[
